@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="J:\Backup\StudioProjects\SbgMeny\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="J:\Backup\StudioProjects\SbgMeny\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-589cfd78a130503d02d684d5acc8170450103dd6.jar" />
+    </item>
+    <item
+        jar="E:\Program\Android SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="J:\Backup\StudioProjects\SbgMeny\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-272940ea23c0012ff85f92c92ae4477ebf104cb5.jar" />
+    </item>
+    <item
+        jar="J:\Backup\StudioProjects\SbgMeny\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="J:\Backup\StudioProjects\SbgMeny\app\build\intermediates\pre-dexed\debug\classes-8ac8173615b24d99b912a12290ef889b679efd7d.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMeny\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android Studio Projects\SbgMeny\app\build\intermediates\pre-dexed\debug\classes-b21affd34a97697035aba92143223f132251aaf9.jar" />
+    </item>
+    <item
+        jar="J:\Backup\StudioProjects\SbgMeny\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="J:\Backup\StudioProjects\SbgMeny\app\build\intermediates\pre-dexed\debug\classes-2bc7986ca4fc2e205e35327f903a34995544bed0.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMeny\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android Studio Projects\SbgMeny\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c4b5faf7a3718d745c90bc15316535f9b4d85e88.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Projects\SbgMeny\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Android Studio Projects\SbgMeny\app\build\intermediates\pre-dexed\debug\classes-dfec64142188592406edfa30c0d4d052ca597c91.jar" />
+    </item>
+
+</items>
